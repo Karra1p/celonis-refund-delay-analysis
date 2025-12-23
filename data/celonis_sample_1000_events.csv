@@ -1,0 +1,12 @@
+CASE_ID,ACTIVITY,EVENTTIME,RESOURCE,AMOUNT,STATUS
+T1000,Ticket Created,9/22/2024 6:54,Payment Gateway,40,Success
+T1000,Payment Initiated,9/22/2024 7:38,Gate Scanner,40,Success
+T1000,Payment Failed,9/22/2024 8:16,Finance Team,40,Success
+T1000,Payment Completed,9/22/2024 8:18,System,50,Success
+T1000,Refund Initiated,9/22/2024 8:33,Gate Scanner,40,Success
+T1000,Refund Completed,9/22/2024 9:09,Payment Gateway,,Success
+T1001,Ticket Created,9/16/2024 1:44,Finance Team,75,Success
+T1001,Payment Initiated,9/16/2024 2:02,Payment Gateway,50,Success
+T1001,Payment Completed,9/16/2024 2:51,Bank,40,Success
+T1001,Refund Initiated,9/16/2024 2:57,Finance Team,40,Success
+T1001,Refund Completed,9/16/2024 3:20,Bank,75,Success
